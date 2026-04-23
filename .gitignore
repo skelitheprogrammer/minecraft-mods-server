@@ -2,3 +2,4 @@
 !/mods/
 !/automodpack/
 !.gitignore
+/automodpack/.private
