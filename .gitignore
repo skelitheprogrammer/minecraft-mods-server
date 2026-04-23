@@ -3,3 +3,4 @@
 !/automodpack/
 !.gitignore
 /automodpack/.private
+/automodpack/host-modpack/automodpack-content.json
